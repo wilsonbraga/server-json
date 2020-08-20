@@ -1,2 +1,18 @@
-[{"date":"13\/8\/2020","title":"Caminhos para seguir em frente | Semin\u00e1rio online","link":"?agenda=2020_08_13","linkTarget":"_self","color":"#aaa"},
-  {"date":"20\/8\/2020","title":"Caminhos para seguir em frente | Semin\u00e1rio online","link":"?agenda=2020_08_13","linkTarget":"_self","color":"#aaa"}]
+{
+  "agenda":[
+    {
+      "date":"13\/8\/2020",
+      "title":"Caminhos para seguir em frente | Semin\u00e1rio online",
+      "link":"?agenda=2020_08_13",
+      "linkTarget":"_self",
+      "color":"#aaa"
+    },
+    {
+      "date":"20\/8\/2020",
+      "title":"Caminhos para seguir em frente | Semin\u00e1rio online",
+      "link":"?agenda=2020_08_20",
+      "linkTarget":"_self",
+      "color":"#aaa"
+    }
+  ]
+}
