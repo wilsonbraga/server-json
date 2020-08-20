@@ -1,0 +1,16 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "Primeiro poste!",
+      "content" : "Meu primeiro comentario!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
