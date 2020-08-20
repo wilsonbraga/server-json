@@ -1,16 +1,2 @@
-{
-  "posts":[
-    {
-      "id" : 0,
-      "title": "Primeiro poste!",
-      "content" : "Meu primeiro comentario!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
-}
+[{"date":"13\/8\/2020","title":"Caminhos para seguir em frente | Semin\u00e1rio online","link":"?agenda=2020_08_13","linkTarget":"_self","color":"#aaa"},
+  {"date":"20\/8\/2020","title":"Caminhos para seguir em frente | Semin\u00e1rio online","link":"?agenda=2020_08_13","linkTarget":"_self","color":"#aaa"}]
